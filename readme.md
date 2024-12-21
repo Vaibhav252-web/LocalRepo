@@ -1,1 +1,3 @@
-# This is a Passward generator app
+# This is a Password generator app
+<br>
+This generate strong password
