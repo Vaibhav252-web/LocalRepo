@@ -1,3 +1,3 @@
 # This is a Password generator app
 <br>
-This generate strong password
+This generate very strong password 
